@@ -27,3 +27,24 @@ ReactDOM.render(<MyApp/>, document.getElementById('root'))
   -renderize seu componente funcional no navegador
   -[EXTRA] ainda nao falamos sobre estilos... mas que tal pesquesar sobre como 
   isto acontece no React e fazer uma tentativa?*/
+
+  /*
+  import React from 'react';
+  import ReactDOM from 'react-dom';
+
+  function MyInfo(){
+    return(
+        <div>
+            <h1>Jazmin Pinto</h1>
+            <p>Este é um paragrafo sobre mim</p>
+            <ul>
+                <li>Comer chocolate</li>
+                <li>Salir a caminhar</li>
+                <li>Escutar musica</li>
+            </ul>
+        </div>
+    )
+  }
+
+  ReactDOM.render(<MyInfo/>, document.getElementById('root')); 
+  */
