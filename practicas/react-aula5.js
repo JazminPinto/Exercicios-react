@@ -28,7 +28,7 @@ ReactDOM.render(<MyApp/>, document.getElementById('root'))
   -[EXTRA] ainda nao falamos sobre estilos... mas que tal pesquesar sobre como 
   isto acontece no React e fazer uma tentativa?*/
 
-  /*
+  
   import React from 'react';
   import ReactDOM from 'react-dom';
 
@@ -47,4 +47,4 @@ ReactDOM.render(<MyApp/>, document.getElementById('root'))
   }
 
   ReactDOM.render(<MyInfo/>, document.getElementById('root')); 
-  */
+  

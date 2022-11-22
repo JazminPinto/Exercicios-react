@@ -10,7 +10,7 @@ ReactDOM.render(
 
   //ou
 
-  let titulo = document.createElement('h1')
+  /*let titulo = document.createElement('h1')
   titulo.textContent = 'Hola mundo!!'
 
   let p = document.createElement('p')
@@ -18,7 +18,7 @@ ReactDOM.render(
 
   let root = document.getElementById('root')
   root.append(titulo)
-  root.append(p)
+  root.append(p)*/
 
   /* pratica
   -execute voce mesmo o comando Create React App
