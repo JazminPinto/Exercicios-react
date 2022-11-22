@@ -28,3 +28,17 @@ ReactDOM.render(
   -fiquem a vontade para explorar e criar mais itens no 
   template!!
     */
+
+import React from 'react'
+import ReactDOM from 'react-dom'
+
+ReactDOM.render(
+  <div>
+    <ul>
+      <li>Ir ao mercado</li>
+      <li>Limpar a casa</li>
+      <li>Brincar com os gatos</li>
+    </ul>
+  </div>, 
+  document.getElementById('root')
+);
